@@ -1,0 +1,1 @@
+1. You need to download BERT from [https://github.com/ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
