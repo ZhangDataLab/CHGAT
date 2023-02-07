@@ -4,7 +4,9 @@ This is the source code for paper 'For the Underrepresented in Gender Bias Resea
 
 ## Online Service
 
-We provide an online service of our mode in [http://www.chgat.tech:8080/](http://www.chgat.tech:8080/). You can query the api to guess Chinese names with our model.
+We provide an online service of our mode in [http://www.chgat.tech:8080/](http://www.chgat.tech:8080/). 
+
+You can query the api to guess Chinese names with our model.
 
 ## Abstract
 
