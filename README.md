@@ -8,7 +8,7 @@ Achieving gender equality is an important pillar for humankind’s sustainable f
 
 ## Online Service
 
-We provide an online service of our mode in [http://www.chgat.tech:8080/](http://www.chgat.tech:8080/). 
+We provide an online service of our mode in [http://www.chgat.tech](http://www.chgat.tech). 
 
 You can query the api to guess Chinese names with our model.
 
